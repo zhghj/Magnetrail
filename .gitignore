@@ -1,0 +1,24 @@
+# Gradle / IDE
+*.iml
+.gradle/
+.kotlin/
+.idea/
+.build/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+
+# 本机工具链与构建产物
+.toolchain/
+*.apk
+*.aab
+*.log
+*.hprof
+
+# 签名与密钥（绝不提交）
+keystore.properties
+keystore/
+*.keystore
+*.jks

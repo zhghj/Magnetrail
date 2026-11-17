@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.k2fsa.sherpa-onnx</groupId>
+  <artifactId>sherpa-onnx</artifactId>
+  <version>2.0.1</version>
+  <packaging>aar</packaging>
+  <name>sherpa-onnx</name>
+  <description>sherpa-onnx Android AAR: Kotlin bindings for offline/streaming ASR, VAD, TTS. Bundles libonnxruntime and JNI libs for all ABIs.</description>
+  <url>https://github.com/k2-fsa/sherpa-onnx</url>
+</project>

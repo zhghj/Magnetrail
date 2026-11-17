@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Magnetrail</string>
+    <string name="notif_channel_name">下载任务</string>
+    <string name="notif_channel_desc">磁力下载进度与速度</string>
+    <string name="notif_title">Magnetrail 正在下载</string>
+    <string name="notif_idle">暂无活动任务</string>
+    <string name="notif_stop">停止全部</string>
+
+    <string name="tab_tasks">任务</string>
+    <string name="tab_files">文件</string>
+    <string name="tab_browser">浏览</string>
+
+    <string name="hint_magnet">粘贴 magnet:?xt=urn:btih:… 链接</string>
+    <string name="add">添加</string>
+    <string name="paste">粘贴</string>
+    <string name="empty_tasks">还没有任务。贴一个磁力链接开始下载。</string>
+    <string name="empty_files">下载目录还是空的。</string>
+    <string name="btn_pause">暂停</string>
+    <string name="btn_resume">继续</string>
+    <string name="btn_remove">删除任务</string>
+    <string name="btn_play">播放</string>
+    <string name="btn_share">分享</string>
+    <string name="btn_delete_file">删除文件</string>
+    <string name="bad_link">这不是有效的磁力链接</string>
+    <string name="copied">已从剪贴板读取</string>
+    <string name="confirm_delete_title">删除任务？</string>
+    <string name="confirm_delete_msg">将同时删除已下载的文件。</string>
+    <string name="confirm_delete_file">删除这个文件？</string>
+    <string name="cancel">取消</string>
+    <string name="ok">确定</string>
+    <string name="total">共</string>
+    <string name="files_title">文件</string>
+    <string name="select_files">选择要下载的文件</string>
+</resources>

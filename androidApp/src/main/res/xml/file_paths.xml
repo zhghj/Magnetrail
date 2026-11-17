@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  只暴露下载目录：播放器/分享只需要这一处。
+  之前的 files-path/cache-path 没有任何使用方，收窄可以减少被授权 URI 波及的面。
+-->
+<paths>
+    <external-files-path name="downloads" path="Downloads/" />
+</paths>

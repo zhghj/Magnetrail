@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- horseshoe magnet -->
+    <path
+        android:fillColor="#FFF2F5FA"
+        android:pathData="M32,34 L32,58 A22,22 0 0,0 76,58 L76,34 L64,34 L64,58 A10,10 0 0,1 44,58 L44,34 Z" />
+    <!-- red pole tips -->
+    <path
+        android:fillColor="#FFFF5A5F"
+        android:pathData="M32,24 L44,24 L44,36 L32,36 Z" />
+    <path
+        android:fillColor="#FFFF5A5F"
+        android:pathData="M64,24 L76,24 L76,36 L64,36 Z" />
+</vector>
